@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 aaaa
 mainの方でfirを編集
+=======
+iaaa
+branch練習
+>>>>>>> testing
+
