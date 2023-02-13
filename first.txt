@@ -6,3 +6,4 @@ iaaa
 branch練習
 >>>>>>> testing
 
+リモートと繋げて、mainにてfir.txtを編集
